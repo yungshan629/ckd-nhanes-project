@@ -4,13 +4,14 @@ This repository contains a machine learning project for predicting chronic kidne
 
 📁 **Repository Structure**
 
+```
 ckd-nhanes-project/
 │
 ├── data/ # Processed dataset (e.g., cleaned CSV)
 ├── notebooks/ # Jupyter notebooks for preprocessing, modeling, SHAP analysis
 ├── outputs/ # Model performance plots and SHAP figures
 └── report.pdf # Full project report for academic review
-
+```
 
 🧾 **Dataset**
 - Source: NHANES (2013–2020)
