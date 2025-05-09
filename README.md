@@ -30,7 +30,7 @@ ckd-nhanes-project/
 - Key predictors include hemoglobin, serum creatinine, and blood urea nitrogen
 
 📄 **Report**
-See `report.pdf` for the full methodology, performance comparison, SHAP visualizations, and clinical discussion.
+See `Chronic_Kidney_Disease_Prediction.pdf` for the full methodology, performance comparison, SHAP visualizations, and clinical discussion.
 
 🔍 **Purpose**
 This project was developed as part of a data science application portfolio. It aims to demonstrate reproducibility, data cleaning rigor, and practical understanding of machine learning in healthcare applications.
